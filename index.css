@@ -1,0 +1,103 @@
+.invoice {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+
+.invoice button {
+    width: 100px;
+    height: 26px;
+    border-radius: 10px;
+    background: #3b9ff5;
+    border: 1px solid #3b9ff5;
+}
+
+.picture_add {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+}
+
+.picture_add_cl {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+}
+
+.picture img {
+    height: 200px;
+}
+
+.picture {
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-top: -30px;
+}
+
+.rovme {
+    background: #fff;
+    border: 1px solid red;
+    color: red;
+    border-radius: 5px;
+    font-size: 12px;
+    display: flex;
+    justify-content: flex-start;
+    height: 26px;
+}
+
+.rovme_zong {
+    background: #fff;
+    border: 1px solid red;
+    color: red;
+    border-radius: 5px;
+    font-size: 12px;
+    display: flex;
+    justify-content: flex-start;
+    height: 26px;
+}
+
+.add_app select {
+    min-width: 100px;
+    height: 26px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 13px;
+}
+
+.box {
+    width: 100%;
+}
+
+#app {
+    width: 100%
+}
+
+.picture {
+
+}
+
+.picture div {
+    width: 19%;
+    height: 200px;
+    margin-top: 40px;
+}
+
+.sel_btn {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.add_app {
+    margin-top: 50px;
+}
+
+
+
